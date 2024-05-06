@@ -8,4 +8,4 @@ You need to run Setup.bat to setup and download all needed libraries.
 
 You have the option to either run using .exe or .py. Choose whatever is more comfortable.
 
-Note: This cript might be a bit outdated, I have written it back in 2023.
+Note: This script might be a bit outdated, I have written it back in 2023.

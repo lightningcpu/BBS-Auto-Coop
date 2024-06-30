@@ -1,11 +1,27 @@
-If you want to use this script, first you want to set it up.
+### BBS-CO-OP-Automation
 
-There is a YouTube video in the link.txt file.
+If you're looking to use this script, you're in the right place. Here's how to get started:
 
-You want to make the game window size exactly 1024x576.
+#### Setup Instructions
 
-You need to run Setup.bat to setup and download all needed libraries.
+1. **Watch the Setup Video:** 
+   Check out the [YouTube video](link.txt) included for a step-by-step guide on setting up this script.
 
-You have the option to either run using .exe or .py. Choose whatever is more comfortable.
+2. **Adjust Game Window Size:**
+   Ensure your game window size is set to **1024x576** for optimal performance.
 
-Note: This script might be a bit outdated, I have written it back in 2023.
+3. **Run Setup.bat:**
+   Execute **Setup.bat** to automatically download and configure all necessary libraries.
+
+4. **Choose Your Preferred Execution Method:**
+   You can run the script using either the compiled **.exe** file or directly from the **.py** source — whichever suits you best.
+
+#### Important Note
+This script was originally developed in 2023, so there might be some updates or improvements since then.
+
+#### Get Started
+Follow these simple steps, and you'll be up and running in no time. Enjoy!
+
+---
+
+*Enhance your gaming experience with BBS-CO-OP-Automation. Have fun!*

@@ -126,27 +126,27 @@ def checkconnect():
 def gettickets():
     pyautogui.click(x=516, y=436)
     time.sleep(0.5)
-    pyautogui.click(x=27, y=67)
+    pyautogui.click(x=27, y=67) #Back
     time.sleep(0.5)
-    pyautogui.click(x=655, y=438)
+    pyautogui.click(x=655, y=438) #Accept
     time.sleep(5)
-    pyautogui.click(x=512, y=439)
+    pyautogui.click(x=512, y=439) #Click ok on room close
     time.sleep(7)
-    pyautogui.click(x=982, y=72)
+    pyautogui.click(x=982, y=72) #Menu
     time.sleep(0.5)
-    pyautogui.click(x=952, y=577)
+    pyautogui.click(x=952, y=577) #Soul badge
     time.sleep(0.5)
-    pyautogui.click(x=312, y=455)
+    pyautogui.click(x=575, y=350) #Power-up quests
     time.sleep(5)
-    pyautogui.click(x=725, y=250)#select
+    pyautogui.click(x=300, y=280) #Select some quest
     time.sleep(3)
-    pyautogui.click(x=300, y=539)
+    pyautogui.click(x=725, y=539) #Difficulty button
     time.sleep(1.5)
-    pyautogui.click(x=750, y=568)
+    pyautogui.click(x=750, y=568) #Prepare button
     time.sleep(1.5)
-    pyautogui.click(x=661, y=571)#select end
+    pyautogui.click(x=661, y=571) #Start quest
     time.sleep(5)
-    pyautogui.click(x=750, y=568)
+    pyautogui.click(x=750, y=568) #Buy tickets
     time.sleep(0.7)
     pyautogui.click(x=661, y=445)
     time.sleep(0.5)
@@ -158,11 +158,11 @@ def gettickets():
     time.sleep(5)
     pyautogui.click(x=518, y=442)
     time.sleep(0.5)
-    pyautogui.click(x=982, y=68)
+    pyautogui.click(x=982, y=68) #Menu
     time.sleep(0.5)
-    pyautogui.click(x=942, y=575)
+    pyautogui.click(x=820, y=575) #Co-op
     time.sleep(0.5)
-    pyautogui.click(x=578, y=453)
+    pyautogui.click(x=515, y=315) #Co-op select
     time.sleep(5)
     select()
     

@@ -12,7 +12,7 @@
 
 ### What's the Catch?
 
-Just a small favor—if you find this script helpful, please leave a star for my efforts! :3
+Just a small favor — if you find this script helpful, please leave a star for my efforts! :3
 
 ---
 

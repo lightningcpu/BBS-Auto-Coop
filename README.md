@@ -31,13 +31,6 @@ Just a small favor—if you find this script helpful, please leave a star for my
 
 4. **Choose Your Preferred Execution Method:**
    You can run the script using either the compiled **.exe** file or directly from the **.py** source — whichever suits you best.
-
-#### Important Note
-This script was originally developed in 2023, so there might be some updates or improvements since then.
-
-#### Get Started
-Follow these simple steps, and you'll be up and running in no time. Enjoy!
-
 ---
 
 *Enhance your gaming experience with BBS-CO-OP-Automation. Have fun!*

@@ -1,13 +1,13 @@
 ### Main Features:
 
 1. **Customizable Personal Room**: Set up a personal room tailored to your specific needs and preferences.
-2. **Co-Op Quest Farming**: Seamlessly farm any Co-Op quest in the game.
+2. **Farm ANY quest**: Seamlessly farm any Co-Op quest in the game.
 3. **Automatic Ticket Replenishment**: Ensures your tickets are replenished automatically when they hit zero.
 
 ### Additional Features:
 
 1. **Connection Checks**: Monitors player connections and restarts the room if players disconnect, preventing disruptions.
-2. **Live Monitoring**: Keeps track of your status to prevent getting stuck on an infinite loading screen when others disconnect.
+2. **Live Death Checks**: Keeps track of your status to prevent getting stuck on an infinite loading screen when others disconnect.
 3. **Special Ability Activation**: Automatically uses your special ability when the boss fight begins, a unique feature that enhances gameplay.
 
 ### What's the Catch?
@@ -16,7 +16,7 @@ Just a small favor—if you find this script helpful, please leave a star for my
 
 ---
 
-If you’re interested in using this script, follow these instructions to get started. Your support with a star is greatly appreciated!
+# If you’re interested in using this script, follow these instructions to get started. Your support with a star is greatly appreciated!
 
 #### Setup Instructions
 

@@ -16,7 +16,7 @@ Just a small favor—if you find this script helpful, please leave a star for my
 
 ---
 
-# If you’re interested in using this script, follow these instructions to get started. Your support with a star is greatly appreciated!
+###### If you’re interested in using this script, follow these instructions to get started. Your support with a star is greatly appreciated!
 
 #### Setup Instructions
 

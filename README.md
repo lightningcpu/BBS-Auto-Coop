@@ -27,8 +27,8 @@ Just a small favor — if you find this script helpful, please leave a star for 
 3. **Run Setup.bat:**
    Execute **Setup.bat** to automatically download and configure all necessary libraries.
 
-4. **Choose Your Preferred Execution Method:**
-   You can run the script using either the compiled **.exe** file or directly from the **.py** source — whichever suits you best.
+4. **Execution:**
+   You can run the script using the **.py** file. It is recommended to run the python script from your terminal.
 ---
 
 *Enhance your gaming experience with BBS-CO-OP-Automation. Have fun!*

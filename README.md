@@ -9,6 +9,7 @@
 1. **Connection Checks**: Monitors player connections and restarts the room if players disconnect, preventing disruptions.
 2. **Live Death Checks**: Keeps track of your status to prevent getting stuck on an infinite loading screen when others disconnect.
 3. **Special Ability Activation**: Automatically uses your special ability when the boss fight begins, a unique feature that enhances gameplay.
+4. **Automatic Revival**: Always monitors whether you are alive or not and automatically revives the player if they are downed.
 
 ### What's the Catch?
 

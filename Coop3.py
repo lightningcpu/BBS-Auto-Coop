@@ -227,20 +227,13 @@ def start():
 
 
 def end():
-    pyautogui.click(x=502, y=587)
-    time.sleep(2)
-    pyautogui.click(x=506, y=585)
-    time.sleep(2)
-    pyautogui.click(x=506, y=585)
-    time.sleep(2)
-    pyautogui.click(x=506, y=585)
-    time.sleep(2)
-    pyautogui.click(x=506, y=585)
-    time.sleep(3)
-    pyautogui.click(x=512, y=558)
-    time.sleep(3)
-    pyautogui.click(x=172, y=581)
-
+    pyautogui.click(x=502, y=587) #Click tap here
+    time.sleep(7)
+    pyautogui.click(x=512, y=558) #Close player rank reward
+    time.sleep(1)
+    pyautogui.click(x=506, y=585) #Tap screen
+    time.sleep(6)
+    pyautogui.click(x=172, y=581) #Retry button
 
 m = int(input('How many scrollings(0-3): '))
 if 0 < m <= 3:
